@@ -3,7 +3,7 @@
 # @Author: dengbanghan@gmail.com
 # @Date: 2025/5/3
 
-ffrom pydantic import BaseSettings
+from pydantic import BaseSettings
 from typing import List, Optional
 
 class Settings(BaseSettings):
